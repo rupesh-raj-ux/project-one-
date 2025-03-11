@@ -1,1 +1,2 @@
-# project-one-
+# project-one
+This is Amazon clone web page
